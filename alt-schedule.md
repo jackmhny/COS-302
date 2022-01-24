@@ -4,7 +4,7 @@ This is my planned schedule for completing the COS302 coursework. This Schedule 
 
 ## Linear Algebra
 
-### Week 1: October 25 - November 7 2021
+### Week 1: October 25 - November 7
 
 * [Assignment 1](https://www.cs.princeton.edu/courses/archive/spring21/cos302/#assignments) Out
 * Course Logistics
@@ -57,7 +57,7 @@ This is my planned schedule for completing the COS302 coursework. This Schedule 
   * [required] Lecture Video: [Orthogonality and Projection](https://youtu.be/X64gYV6qeGU) (17:16)
   * [required] [MML 3.4-3.8](https://mml-book.github.io/book/mml-book.pdf#page=82)
 
-### Week 4: February 22-26, 2021
+### Week 4: December 13-17, January 3-9
 
 * [Assignment 3](https://www.cs.princeton.edu/courses/archive/spring21/cos302/#assignments) Due 6pm ET Friday 26 Feb 2021
 * [Assignment 4](https://www.cs.princeton.edu/courses/archive/spring21/cos302/#assignments) Out
@@ -75,7 +75,7 @@ This is my planned schedule for completing the COS302 coursework. This Schedule 
   * [required] [MML 4.2](https://mml-book.github.io/book/mml-book.pdf#page=111)
   * [optional] [3Blue1Brown video on eigenvectors and eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g)
 
-### Week 5: March 1-5, 2021
+### Week 5: January 10-23
 
 * [Assignment 4](https://www.cs.princeton.edu/courses/archive/spring21/cos302/#assignments) Due 6pm ET Friday 5 March 2021
 * [Assignment 5](https://www.cs.princeton.edu/courses/archive/spring21/cos302/#assignments) Out
@@ -88,7 +88,7 @@ This is my planned schedule for completing the COS302 coursework. This Schedule 
   * [required] [MML 4.5](https://mml-book.github.io/book/mml-book.pdf#page=125)
   * [optional] F20 Lecture by Szymon Rusinkiewicz: [Singular Value Decomposition](https://youtu.be/VNpeHYL4wOU)
 
-### Week 6: March 8-12, 2021
+### Week 6: 
 
 * Catchup and review
 * MIDTERM
@@ -96,7 +96,7 @@ This is my planned schedule for completing the COS302 coursework. This Schedule 
 
 ## Probability
 
-### Week 7: March 17-19, 2021 (short week)
+### Week 7: January 24 - February 6 
 
 * [Assignment 5](https://www.cs.princeton.edu/courses/archive/spring21/cos302/#assignments) Due 6pm ET Friday 19 March 2021
 * [Assignment 6](https://www.cs.princeton.edu/courses/archive/spring21/cos302/#assignments) Out
@@ -109,7 +109,7 @@ This is my planned schedule for completing the COS302 coursework. This Schedule 
   * [required] [MML 6.0-6.2](https://mml-book.github.io/book/mml-book.pdf#page=178)
   * [optional] Video: [3Blue1Brown on the Binomial Distribution](https://youtu.be/8idr1WZ1A7Q)
 
-### Week 8: March 22-26, 2021
+### Week 8: February 7 - February 20
 
 * [Assignment 7](https://www.cs.princeton.edu/courses/archive/spring21/cos302/#assignments) Out
 * Joint Probability
@@ -121,7 +121,7 @@ This is my planned schedule for completing the COS302 coursework. This Schedule 
   * [required] Lecture Video: [Independence and Dependence](https://youtu.be/mjkc5gqSO8Q) (7:43)
   * [required] [MML 6.4](https://mml-book.github.io/book/mml-book.pdf#page=192)
 
-### Week 9: March 29 - April 2, 2021
+### Week 9: February 21 - March 6
 
 * [Assignment 7](https://www.cs.princeton.edu/courses/archive/spring21/cos302/#assignments) Due 6pm ET Friday 2 April 2021
 * [Assignment 8](https://www.cs.princeton.edu/courses/archive/spring21/cos302/#assignments) Out
@@ -134,7 +134,7 @@ This is my planned schedule for completing the COS302 coursework. This Schedule 
   * [required] Lectu re Video: [Pseudo-Random Numbers](https://youtu.be/4mdWoAKtUBE) (25:48)
   * [required] [MML 6.7](https://mml-book.github.io/book/mml-book.pdf#page=220)
 
-### Week 10: April 5-9, 2021
+### Week 10: March 7 - March 20
 
 * [Assignment 8](https://www.cs.princeton.edu/courses/archive/spring21/cos302/#assignments) Due 6pm ET Friday 9 April 2021
 * [Assignment 9](https://www.cs.princeton.edu/courses/archive/spring21/cos302/#assignments) Out
@@ -147,7 +147,7 @@ This is my planned schedule for completing the COS302 coursework. This Schedule 
 
 ## Optimization
 
-### Week 11: April 12-16, 2021
+### Week 11: March 20 - April 3
 
 * [Assignment 9](https://www.cs.princeton.edu/courses/archive/spring21/cos302/#assignments) Due 6pm ET Friday 16 April 2021 [Assignment 10](https://www.cs.princeton.edu/courses/archive/spring21/cos302/#assignments) Out
 * Differentiation
@@ -160,7 +160,7 @@ This is my planned schedule for completing the COS302 coursework. This Schedule 
   * [optional] [MML 5.6-5.8](https://mml-book.github.io/book/mml-book.pdf#page=165)
   * [optional] F20 Lecture by Szymon Rusinkiewicz: [Differentiating Vector- and Matrix-Valued Functions](https://youtu.be/VQDtSZ5A0xM)
 
-### Week 12: April 19-23 2021
+### Week 12: April 3 - 17
 
 * [Assignment 10](https://www.cs.princeton.edu/courses/archive/spring21/cos302/#assignments) Due 6pm ET Friday 23 April 2021
 * More Optimization
