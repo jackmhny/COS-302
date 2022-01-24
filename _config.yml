@@ -1,14 +1,11 @@
-### your site title here
+title: COS-302
+description: A short site with my work from Princeton's COS302
 
-title: Your Site Title
-
-
-### let's use the minima theme (see https://github.com/jekyll/minima)
+author:
+  name: Jack Mahoney
+  
 
 theme: minima
-
-
-### exclude the instructions / write-up in the README.md
 
 exclude:
 - README.md
